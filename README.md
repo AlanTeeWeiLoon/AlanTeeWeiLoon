@@ -71,7 +71,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanTeeWeiLoon&theme=dark&background=000000)](https://github.com/AlanTeeWeiLoon)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanTeeWeiLoon)](https://github.com/AlanTeeWeiLoon)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanTeeWeiLoon&count-private=true)](https://github.com/AlanTeeWeiLoon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTeeWeiLoon&langs_count=8)](https://github.com/AlanTeeWeiLoon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTeeWeiLoon&langs_count=8&count-private=true)](https://github.com/AlanTeeWeiLoon)
 
