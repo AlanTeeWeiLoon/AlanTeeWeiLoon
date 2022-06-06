@@ -75,3 +75,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTeeWeiLoon&langs_count=8&count_private=true&theme=dark&hide=CSS,SCSS,Less)](https://github.com/AlanTeeWeiLoon)
 
+[![Top Langs](https://online-hawker.vercel.app/api/top-langs/?username=AlanTeeWeiLoon&langs_count=8&count_private=true&theme=dark&hide=CSS,SCSS,Less)](https://github.com/AlanTeeWeiLoon)
+
