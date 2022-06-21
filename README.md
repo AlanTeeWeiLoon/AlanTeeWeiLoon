@@ -73,6 +73,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanTeeWeiLoon&count_private=true&theme=dark)](https://github.com/AlanTeeWeiLoon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTeeWeiLoon&langs_count=8&count_private=true&theme=dark&hide=CSS,SCSS,Less)](https://github.com/AlanTeeWeiLoon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTeeWeiLoon&langs_count=8&count_private=true&theme=dark&hide=CSS,SCSS,Less,HTML)](https://github.com/AlanTeeWeiLoon)
 
 
