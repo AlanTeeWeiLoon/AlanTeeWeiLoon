@@ -34,9 +34,11 @@
 
 ### 👨‍💻: About Me :
 
+- 💰: Currently work as a software engineer in Morpheus Consulting Plt Ltd, majority tasks using React.js and ASP.NET frameworks.
+
 - 👨‍🎓:  Studied BSc (Hons) in Information Technology specializing in Business Information System (BIS) 
 
-- 🏫: Fresh graduates from Asia Pacific University [![APU Badge](https://img.shields.io/badge/APU-blue?style=flat&logo=APU&logoColor=white)](https://www.apu.edu.my/)
+- 🏫: First Class Honors🏆 graduated from Asia Pacific University [![APU Badge](https://img.shields.io/badge/APU-blue?style=flat&logo=APU&logoColor=white)](https://www.apu.edu.my/)
 
 - 🎯: I had developed a food ordering system as my Final Year Project using ![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) and ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
