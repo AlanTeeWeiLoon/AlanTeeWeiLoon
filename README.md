@@ -34,7 +34,7 @@
 
 ### 👨‍💻: About Me :
 
-- 💰: Currently work as a software engineer in Morpheus Consulting Plt Ltd, majority tasks using React.js and ASP.NET frameworks.
+- 💰: Currently work as a software engineer in Morpheus Consulting Pte Ltd, majority tasks using React.js and ASP.NET frameworks.
 
 - 👨‍🎓:  Studied BSc (Hons) in Information Technology specializing in Business Information System (BIS) 
 
